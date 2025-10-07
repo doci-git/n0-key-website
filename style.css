@@ -72,14 +72,14 @@
       padding-left: 9px;
       align-items: center;
       font-weight: 800;
-      font-size: 1.29rem;
+      font-size: 1.9rem;
       text-decoration: none;
       color: inherit;
     }
 
     .logo-icon i {
       color: rgb(255, 162, 0);
-      font-size: 1rem;
+      font-size: 1.4rem;
     }
 
     @media (prefers-color-scheme: dark) {
