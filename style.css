@@ -410,7 +410,11 @@
     }
 
     .mockup-header span {
-      font-size: 0.75rem;
+      font-size: 0.9rem;
+      opacity: 0.7;
+    }
+    .mockup-header strong {
+      font-size: 1.4rem;
       opacity: 0.7;
     }
 
