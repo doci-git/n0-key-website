@@ -419,7 +419,7 @@
     }
 
     .mockup-body {
-      background-image: url("test3.png");
+      background-image: url("nokey.png");
       background-size: cover;
       padding: 1.5rem;
       background-color: white;
